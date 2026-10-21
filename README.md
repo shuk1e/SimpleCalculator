@@ -47,3 +47,7 @@ Use this project to practise commits, branches, merging, merge conflicts, tags, 
 ## License
 
 This project is provided for educational use.
+
+## Help and development
+
+This section was added on the feature/add-help branch.
