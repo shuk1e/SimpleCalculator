@@ -48,6 +48,10 @@ Use this project to practise commits, branches, merging, merge conflicts, tags, 
 
 This project is provided for educational use.
 
+## Remote repository test
+
+This change was made directly on GitHub to demonstrate `git pull`.
+
 ## Help and development
 
 This section was added on the feature/add-help branch.
