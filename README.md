@@ -59,3 +59,10 @@ Main branch: project status information.
 Project status: ready
 
 Main branch update for rebase demo
+<<<<<<< HEAD
+=======
+Rebase demonstration
+First rebase note
+Second rebase note
+Second rebase note
+>>>>>>> c750ba8 (Add first temporary note)
