@@ -1,0 +1,13 @@
+# Compiled program
+calculator
+calculator.exe
+*.o
+*.obj
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*~
