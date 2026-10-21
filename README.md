@@ -52,3 +52,4 @@ This project is provided for educational use.
 
 This section was added on the feature/add-help branch.
 Main branch: project status information.
+Project status: stable
