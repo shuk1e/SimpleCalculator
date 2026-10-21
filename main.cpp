@@ -1,3 +1,4 @@
+// Simple command-line calculator written in C++.
 #include <iostream>
 using namespace std;
 
