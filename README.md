@@ -51,3 +51,4 @@ This project is provided for educational use.
 ## Help and development
 
 This section was added on the feature/add-help branch.
+Main branch: project status information.
