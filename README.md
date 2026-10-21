@@ -66,3 +66,4 @@ First rebase note
 Second rebase note
 Second rebase note
 >>>>>>> c750ba8 (Add first temporary note)
+Amend demonstration
